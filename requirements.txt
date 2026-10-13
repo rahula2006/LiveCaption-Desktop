@@ -1,0 +1,4 @@
+
+soundcard
+numpy
+faster-whisper
