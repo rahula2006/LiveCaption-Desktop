@@ -1,0 +1,33 @@
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Local environment and secrets
+.env
+.env.*
+
+# Generated transcripts and audio
+transcripts/
+*.wav
+*.mp3
+*.m4a
+*.mp4
+*.mkv
+
+# Downloaded models and temporary files
+models/
+.cache/
+*.tmp
+
+# IDE and operating system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
